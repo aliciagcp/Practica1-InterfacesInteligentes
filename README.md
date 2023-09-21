@@ -5,7 +5,7 @@ Se ha realizado una escena 3D básica utilizando exclusivamente el editor de esc
 
 Para ello se han seguido los siguientes pasos:
 
-1. Se han añadido dos objetos 3D básicos (cubo y esfera), a los cuáles se les han añadido diferentes texturas. 
+**1.** Se han añadido dos objetos 3D básicos (cubo y esfera), a los cuáles se les han añadido diferentes texturas. 
    
 2. Se ha buscado en la Asset Store el paquete Starter Assets y se ha incluído en el proyecto.
 
