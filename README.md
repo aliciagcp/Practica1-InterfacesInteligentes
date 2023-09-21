@@ -5,7 +5,7 @@ Se ha realizado una escena 3D básica utilizando exclusivamente el editor de esc
 
 Para ello se han seguido los siguientes pasos:
 
-**1. Incluir objetos 3D básicos.**
+# **1. Incluir objetos 3D básicos.**
    
 Se han añadido dos objetos 3D básicos, un cubo y una esfera, a los cuáles se les han añadido diferentes texturas. 
    
