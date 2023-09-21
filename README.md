@@ -7,9 +7,9 @@ Para ello se han seguido los siguientes pasos:
 
 1. Creación de dos objetos 3D básicos (cubo y esfera), a los cuáles se les ha añadido diferentes texturas. 
    
-2. Búsqueda en la Asset Store del paquete *Starter Assets* e inclusión en el proyecto.
+2. Búsqueda en la **Asset Store** del paquete *Starter Assets* e inclusión en el proyecto.
 
-3. Búsqueda en la Asset Store del paquete de *ARCADE - FREE Racing Car* y agregación del objeto *Free Racing Car Gray Variant*.
+3. Búsqueda en la **Asset Store** del paquete *ARCADE - FREE Racing Car* y agregación del objeto *Free Racing Car Gray Variant*.
 
 4. Creación de un terreno montañoso con textura. 
 
