@@ -9,7 +9,7 @@ Para ello se han seguido los siguientes pasos:
    
 2. Búsqueda en la **Asset Store** del paquete **Starter Assets** e inclusión en el proyecto.
 
-3. Búsqueda en la **Asset Store** del paquete **ARCADE - FREE Racing Car** y agregación del objeto **Free Racing Car Gray Variant**.
+3. Búsqueda en la **Asset Store** del paquete **Military FREE** y agregación del objeto **tower_001**.
 
 4. Creación de un terreno montañoso con textura. 
 
