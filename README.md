@@ -3,7 +3,7 @@
 ### Alicia Guadalupe Cruz Pérez
 Se ha realizado una escena 3D básica utilizando exclusivamente el editor de escanas.
 
-![gif](gif_práctica1.mp4)
+![gif](gif_práctica1.gif)
 
 Para ello se han seguido los siguientes pasos:
 
