@@ -3,6 +3,8 @@
 ### Alicia Guadalupe Cruz Pérez
 Se ha realizado una escena 3D básica utilizando exclusivamente el editor de escanas.
 
+![gif](gif práctica1 .mp4)
+
 Para ello se han seguido los siguientes pasos:
 
 1. Creación de dos objetos 3D básicos (cubo y esfera), a los cuáles se les ha añadido diferentes texturas. 
