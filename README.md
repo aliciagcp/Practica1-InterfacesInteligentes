@@ -17,6 +17,6 @@ Para ello se han seguido los siguientes pasos:
 
 5. Agregación a cada objeto creado una nueva etiqueta en la ventana **Inspector**.
 
-6. Utilización de prefabs de **Starter Asset Third Person**.
+6. Utilización del prefab **PlayerArmature** de **Starter Asset Third Person**.
    
 8. Creación de un script, en un objeto vacío, que escribe en la consola los objetos que se han utilizado junto con su etiqueta.
