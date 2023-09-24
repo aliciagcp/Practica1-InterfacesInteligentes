@@ -19,4 +19,4 @@ Para ello se han seguido los siguientes pasos:
 
 6. Utilización del prefab **PlayerArmature** de **Starter Asset Third Person**.
    
-8. Creación de un script, en un objeto vacío, que escribe en la consola los objetos que se han utilizado junto con su etiqueta.
+8. Creación de un ![script](NameObjectScript.cs), en un objeto vacío, que escribe en la consola los objetos que se han utilizado junto con su etiqueta.
