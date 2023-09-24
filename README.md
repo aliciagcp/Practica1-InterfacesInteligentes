@@ -1,7 +1,7 @@
 # Practica1-InterfacesInteligentes
 ## Introducción a Unity
 ### Alicia Guadalupe Cruz Pérez
-Se ha realizado una escena 3D básica utilizando exclusivamente el editor de escanas.
+Se ha realizado una escena 3D básica utilizando exclusivamente el editor de escenas.
 
 ![gif](gif-práctica1.gif)
 
